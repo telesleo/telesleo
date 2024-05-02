@@ -1,4 +1,4 @@
-Olá, me chamo Leo, moro em São Bento do Sul, Santa Catarina, sou fascinado por tecnologia e programação, área que venho estudando há 3 anos. Hoje sou formado em Desenvolvimento Web pela Trybe. Tenho conhecimentos tanto de Backend quando de Frontend, usando tecnologias como Javascript, Typescript, React, Node, Express, Docker entre outras. Na busca constante de melhorar minhas técnicas e aprender novas habilidades. Atualmente estudando Cybersecurity e aprofundando o conhecimento sobre Python.
+Olá, me chamo Leo, moro em São Bento do Sul, Santa Catarina, sou fascinado por tecnologia e programação, área que venho estudando há 4 anos. Hoje sou formado em Desenvolvimento Web pela Trybe. Tenho conhecimentos tanto de Backend quando de Frontend, usando tecnologias como Javascript, Typescript, React, Node, Express, Docker entre outras. Na busca constante de melhorar minhas técnicas e aprender novas habilidades. Atualmente estudando Cybersecurity e aprofundando o conhecimento em Python.
 
 ## Tecnologias e Ferramentas
 <div>
