@@ -1,4 +1,4 @@
-Olá, me chamo Leo, moro em São Bento do Sul, Santa Catarina, sou fascinado por tecnologia e programação, área que venho estudando há 4 anos. Hoje sou formado em Desenvolvimento Web pela Trybe. Tenho conhecimentos tanto de Backend quando de Frontend, usando tecnologias como Javascript, Typescript, React, Node, Express, Docker entre outras. Na busca constante de melhorar minhas técnicas e aprender novas habilidades. Atualmente estudando Cybersecurity e aprofundando o conhecimento em Python.
+Olá, me chamo Leo, moro em São Bento do Sul, Santa Catarina, sou fascinado por tecnologia e programação, área que venho estudando há 3 anos. Hoje sou formado em Desenvolvimento Web pela Trybe. Tenho conhecimentos tanto de Backend quando de Frontend, usando tecnologias como Javascript, Typescript, React, Node, Express, Docker entre outras. Na busca constante de melhorar minhas técnicas e aprender novas habilidades. Atualmente estudando Cybersecurity e aprofundando o conhecimento em Python.
 
 ## Tecnologias e Ferramentas
 <div>
@@ -8,6 +8,8 @@ Olá, me chamo Leo, moro em São Bento do Sul, Santa Catarina, sou fascinado por
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/>
 </div>
+
+Email: leonardoandrei41@gmail.com
 
 <div>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
