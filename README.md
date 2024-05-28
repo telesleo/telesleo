@@ -9,8 +9,6 @@ Olá, me chamo Leo, moro em São Bento do Sul, Santa Catarina, sou fascinado por
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/>
 </div>
 
-Email: leonardoandrei41@gmail.com
-
 <div>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/>
@@ -27,3 +25,5 @@ Email: leonardoandrei41@gmail.com
 
 ![telesleo's GitHub stats](https://github-readme-stats.vercel.app/api?username=telesleo&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=telesleo&layout=compact&theme=react)
+
+Email: leonardoandrei41@gmail.com
