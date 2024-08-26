@@ -41,3 +41,5 @@ Estou constantemente buscando por desafios que me façam evoluir e tenho o objet
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=telesleo&layout=compact&theme=react)
 
 Email: leonardoandrei41@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/telesleo/
