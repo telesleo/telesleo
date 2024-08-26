@@ -1,4 +1,8 @@
-Olá, me chamo Leo, moro em São Bento do Sul, Santa Catarina, sou fascinado por tecnologia e programação, área que venho estudando há 3 anos. Hoje sou formado em Desenvolvimento Web pela Trybe. Tenho conhecimentos tanto de Backend quando de Frontend, usando tecnologias como Javascript, Typescript, React, Node, Express, Docker entre outras. Na busca constante de melhorar minhas técnicas e aprender novas habilidades. Atualmente estudando Cybersecurity e aprofundando o conhecimento em Python.
+Olá, me chamo Leo, sou Desenvolvedor Web Full Stack apaixonado por tecnologia e programação, área que venho estudando e praticado intensivamente há 3 anos. Trabalho com tecnologias como JavaScript, TypeScript, React, Node.js, Express, MySQL, Jest, Docker e Git.
+
+Atualmente, estou me aprofundando em Java e Spring para expandir minhas habilidades no backend. Recentemente, lancei meu projeto pessoal no ar em clipmap.net, uma ferramenta online para criação de mapas mentais, que já conta com usuários ativos. Projeto onde sou responsável pelo desenvolvimento, manutenção e deploy da aplicação.
+
+Estou constantemente buscando por desafios que me façam evoluir e tenho o objetivo de criar soluções que simplifiquem e melhorem a vida das pessoas.
 
 ## Tecnologias e Ferramentas
 <div>
